@@ -1,4 +1,6 @@
-# Run the program: Open a terminal or command prompt, navigate to the directory where your user_input.py file is saved, and run the program using the command:
+# Run the program: 
+
+Open a terminal or command prompt, navigate to the directory where your user_input.py file is saved, and run the program using the command:
 
 
 python user_input.py
